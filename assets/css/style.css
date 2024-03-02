@@ -86,7 +86,7 @@ main {
     background-color: lightblue;
     /* Make main element take up any surppolus psace to push footer down */
     flex: 1 0 auto;
-
+    margin-top: 47px;
 }
 
 /* Footer */
